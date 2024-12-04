@@ -31,7 +31,7 @@ To set up the project locally, follow these steps:
 
 ## How to Run the Code
 ```bash
-npm run dev
+npm install
 
 npm run dev
 
