@@ -24,7 +24,19 @@ To set up the project locally, follow these steps:
    git clone https://github.com/Hurairahhassan/TradeConsult.git
 
 ## Navigate to the project directory:
-```bash
-cd TradeConsult
+> cd TradeConsult
 
 ## Install dependencies:
+> npm install
+
+## How to Run the Code
+```bash
+npm run dev
+
+npm run dev
+
+http://localhost:3000
+
+npm run build
+
+npm run preview
